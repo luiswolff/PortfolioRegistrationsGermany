@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: library/core.jar library/PortfolioBCG.jar
+Main-Class: de.wolff.portfolioBCG.carReg.CarRegGermany
